@@ -1,0 +1,35 @@
+{
+    "paths": [
+        {
+            "name": "/items",
+            "lambdaFunction": "vueapp7822695c",
+            "privacy": {
+                "open": true
+            },
+            "policyResourceName": "/items"
+        }
+    ],
+    "resourceName": "api2e638eb3",
+    "apiName": "api2e638eb3",
+    "functionArns": [
+        {
+            "lambdaFunction": "vueapp7822695c"
+        }
+    ],
+    "privacy": {
+        "auth": 0,
+        "unauth": 0,
+        "authRoleName": "amplify-vueapp-dev-154852-authRole",
+        "unAuthRoleName": "amplify-vueapp-dev-154852-unauthRole"
+    },
+    "dependsOn": [
+        {
+            "category": "function",
+            "resourceName": "vueapp7822695c",
+            "attributes": [
+                "Name",
+                "Arn"
+            ]
+        }
+    ]
+}
