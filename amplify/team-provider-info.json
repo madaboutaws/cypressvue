@@ -10,6 +10,14 @@
       "StackName": "amplify-vueapp-dev-154852",
       "StackId": "arn:aws:cloudformation:us-west-2:543477293872:stack/amplify-vueapp-dev-154852/31333cb0-8253-11eb-abd4-0263b279d39f",
       "AmplifyAppId": "dq6cewhnlod8y"
+    },
+    "categories": {
+      "function": {
+        "vueapp7822695c": {
+          "deploymentBucketName": "amplify-vueapp-dev-154852-deployment",
+          "s3Key": "amplify-builds/vueapp7822695c-31356473446278653548-build.zip"
+        }
+      }
     }
   }
 }
